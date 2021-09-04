@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Keshav-babu/Machstatz_assignment/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/Keshav-babu/Machstatz_assignment/static/js/main.1677b4b0.chunk.js",
+    "main.js.map": "/Keshav-babu/Machstatz_assignment/static/js/main.1677b4b0.chunk.js.map",
+    "runtime-main.js": "/Keshav-babu/Machstatz_assignment/static/js/runtime-main.82483d46.js",
+    "runtime-main.js.map": "/Keshav-babu/Machstatz_assignment/static/js/runtime-main.82483d46.js.map",
+    "static/js/2.12ed8f1b.chunk.js": "/Keshav-babu/Machstatz_assignment/static/js/2.12ed8f1b.chunk.js",
+    "static/js/2.12ed8f1b.chunk.js.map": "/Keshav-babu/Machstatz_assignment/static/js/2.12ed8f1b.chunk.js.map",
+    "static/js/3.f7e6cab9.chunk.js": "/Keshav-babu/Machstatz_assignment/static/js/3.f7e6cab9.chunk.js",
+    "static/js/3.f7e6cab9.chunk.js.map": "/Keshav-babu/Machstatz_assignment/static/js/3.f7e6cab9.chunk.js.map",
+    "index.html": "/Keshav-babu/Machstatz_assignment/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/Keshav-babu/Machstatz_assignment/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.12ed8f1b.chunk.js.LICENSE.txt": "/Keshav-babu/Machstatz_assignment/static/js/2.12ed8f1b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82483d46.js",
+    "static/js/2.12ed8f1b.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.1677b4b0.chunk.js"
+  ]
+}
